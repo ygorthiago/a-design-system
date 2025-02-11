@@ -1,0 +1,6 @@
+{
+  "extends": "@rogy-ui/ts-config/base.json",
+  "include": [
+    "src"
+  ]
+}
