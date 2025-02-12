@@ -1,2 +1,2 @@
-import { colors } from "@rogy-ui/tokens";
-console.log(colors);
+import { colors } from '@rogy-ui/tokens'
+console.log(colors)
