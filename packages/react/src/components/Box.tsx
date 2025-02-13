@@ -9,3 +9,5 @@ export const Box = styled('div', {
 })
 
 export type BoxProps = CustomComponentProps<typeof Box>
+
+Box.displayName = 'Box'
